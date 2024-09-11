@@ -20,6 +20,7 @@ const corsOptions = {
     /^(http:\/\/.+:3000)$/,
     /^(http:\/\/.+:80)$/,
     /^(http:\/\/.+:8080)$/,
+    /^(http:\/\/.+:8081)$/,
   ],
   credentials: true,
 };
